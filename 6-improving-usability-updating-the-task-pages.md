@@ -15,7 +15,7 @@
 
 ![](images/section7/7.1(1).PNG)
 
-- In the Rendering tree (left panel), click **MILESTONE_ID_L$1**.
+- In the Rendering tree (left pane), click **MILESTONE_ID_L$2**.
 - In the Property Editor (right pane), for Heading enter **Milestone**.
 - In the Rendering tree (left panel), click **IS_COMPLETE_YN**.
 - In the Property Editor (right pane), for Heading enter **Complete?**.
@@ -30,7 +30,7 @@
 
 ![](images/section7/7.2.PNG)
 
-- In Page Designer, within the Rendering tree (left panel), click **P6_PROJECT_ID**.
+- In Page Designer, within the Rendering tree (left pane), click **P6_PROJECT_ID**.
 - In the Property Editor (right pane), enter the following:
    - Identification > Type select **Select List**.
    - Label > Label enter **Project**.
@@ -45,7 +45,7 @@
 
 ![](images/section7/7.2(1).PNG)
 
-- In Page Designer, within the Rendering tree (left panel), click **P6_MILESTONE_ID**.
+- In Page Designer, within the Rendering tree (left pane), click **P6_MILESTONE_ID**.
 - In the Property Editor (right pane), enter the following:
    - Identification > Type select **Select List**.
    - Label > Label enter **Milestone**.
@@ -71,7 +71,7 @@
 
 - The Created, Created By, Updated, and Updated By columns should be moved into a collapsible region and made display only as they maintained by a trigger on the table.
    - Right-click on **Sample Project Tasks**.
-   - Click Create **Sub Region**.
+   - Click **Create Sub Region**.
 
 ![](images/section7/7.4.PNG)
 
