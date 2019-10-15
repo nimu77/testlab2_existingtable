@@ -1,4 +1,4 @@
-## Module 2
+## Module 1
 
 ## Building your tables and view - Installing Sample Tables
 
