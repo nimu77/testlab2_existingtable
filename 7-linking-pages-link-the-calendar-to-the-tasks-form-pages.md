@@ -10,7 +10,7 @@
 ![](images/section8/8.1.PNG)
 
 - In the Developer Toolbar (bottom of page), click **Edit Page 7**.
-- In Page Designer, within the Rendering tree (left pane), under **Tasks** Calendar region, click **Attributes**.
+- In Page Designer, within the Rendering tree (left pane), under **Tasks Calendar** region, click **Attributes**.
 - For Settings > View / Edit Link click **No Link Defined**.
 - In the Link Builder, enter the following:
    - Target > Page select **6**.
