@@ -30,7 +30,7 @@
 ### **Part 2** - Manage Columns
 
 - In the runtime environment, click **Actions**, click **Columns**.  
-    ![](images/section5/5.2.png) 
+    ![](images/section5/5.2.PNG) 
 - Uncheck **Created**, **Created By**, **Updated**, and **Updated By**.
 - Select **Due Date**, click the Up Arrow.
 - Click **Save**.  
@@ -40,7 +40,7 @@
 
 - Click the column heading **Name**.
 - Click **Freeze**.  
-    ![](images/section5/5.3.png)
+    ![](images/section5/5.3.PNG)
 - Hover between the **Project** and **Name** columns until a bar displays.
 - Drag to the right until the **Project** resizes to a suitable size.
 - Repeat for other columns.  
