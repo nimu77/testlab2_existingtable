@@ -42,6 +42,7 @@ To be added.
 5. Click **Development** on the left, then Click **APEX**.
 
     ![](images/module1/gsapex.PNG)
+    *Note: If you already have a workspace on APEX, skip rest of the parts and log in to APEX with your credentials.*
 
 ### **Part 3** - Creating a Workspace
 
