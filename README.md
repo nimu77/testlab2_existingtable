@@ -1,8 +1,6 @@
 # Creating an App based on Existing Tables for Oracle Autonomous Cloud Service
 
-This lab walks you through uploading a spreadsheet into an Oracle database table, and then creating an application based on this new table. You will then play with the Interactive Report and improve the attached form. Lastly, you will add a Calendar page and then link it to the existing form page.
-
-*Rather than trying to email a spreadsheet to gather information from different people, simply create an app in minutes, and email the URL. This single source-of-truth, multi-user, secured, scalable app is so much better than having 20 (incomplete) spreadsheets!*
+This lab walks you through creating an application based on existing tables in your Oracle Database. Go from zero to hero in a ridiculously short period of time!
 
 Please note this lab assumes that you already have the Autonomous Data Warehouse (ADW) or Autonomous Transaction Processing – Serverless (ATP-S) service provisioned. 
 
