@@ -132,4 +132,4 @@
 
 ![](images/section3/3.11.PNG)
 
-To be added. [Click here to navigate to Module 3](3-recreating-the-pp-improving-the-generated-app.md)  
+To be added. [Click here to navigate to Module 3](3-recreating-the-app-improving-the-generated-app.md)  
