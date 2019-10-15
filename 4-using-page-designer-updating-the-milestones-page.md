@@ -15,11 +15,11 @@
    - Heading – enter **Project**.
    - List of Values > Type – select **SQL Query**.
    - SQL Query enter:
-   ~~~~sql   
+   ```   
    select name, id
    from sample$projects
    order by 1
-     ~~~~
+   ```
   - Display Extra Values – select **No**.
   - Null Display Value – enter **- Select Project -**.
 - Click **Save**.
