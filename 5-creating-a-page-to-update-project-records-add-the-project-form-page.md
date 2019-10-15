@@ -40,7 +40,7 @@
 
 ### **Part 2** - Update the Status Item
 
-- In Page Designer, in the Rendering tree(left pane), select **P8_STATUS_ID**.
+- In Page Designer, in the Rendering tree (left pane), select **P8_STATUS_ID**.
 - In the Property Editor (right pane), enter the following:
    - Identification > Type select **Select List**.
    - Label > Label enter **Status**.
@@ -58,7 +58,7 @@
 ### **Part 3** - Create the Audit Details Region
 
 - The Created, Created By, Updated, and Updated By columns should be moved into a collapsible region and made display only as they maintained by a trigger on the table.
-  - In Page Designer, in the Rendering Tree(left pane)right-click on **Create Form**.
+  - In Page Designer, in the Rendering Tree (left pane) right-click on **Create Form**.
   - Click **Create Sub Region**.
 
    ![](images/section6/6.3.PNG)
