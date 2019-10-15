@@ -23,9 +23,9 @@
   - Display Extra Values – select **No**.
   - Null Display Value – enter **- Select Project -**.
 - Click **Save**.
-- Run the application.
 
 ![](images/section5/5.1(1).PNG) 
+- Run the application.
 
 ### **Part 2** - Manage Columns
 
