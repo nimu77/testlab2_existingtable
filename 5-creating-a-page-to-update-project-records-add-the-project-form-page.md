@@ -47,7 +47,8 @@
    - List of values > Type select **SQL Query**.
    - SQL Query enter:
    ```
-   select code, id from sample$project_status
+   select code, id 
+   from sample$project_status
    order by display_order
    ```
   - Display Extra Values click **No**.
